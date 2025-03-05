@@ -14,3 +14,6 @@ class Program{
     Console.WriteLine($"O valo da variável SOMA é: {SOMA}");
   }
 }
+
+
+
