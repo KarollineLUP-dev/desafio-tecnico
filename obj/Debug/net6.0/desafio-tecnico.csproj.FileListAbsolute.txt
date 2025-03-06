@@ -1,0 +1,15 @@
+G:\Meu Drive\code\desafio-tecnico\obj\Debug\net6.0\desafio-tecnico.csproj.AssemblyReference.cache
+G:\Meu Drive\code\desafio-tecnico\obj\Debug\net6.0\desafio-tecnico.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\code\desafio-tecnico\obj\Debug\net6.0\desafio-tecnico.AssemblyInfoInputs.cache
+G:\Meu Drive\code\desafio-tecnico\obj\Debug\net6.0\desafio-tecnico.AssemblyInfo.cs
+G:\Meu Drive\code\desafio-tecnico\obj\Debug\net6.0\desafio-tecnico.csproj.CoreCompileInputs.cache
+G:\Meu Drive\code\desafio-tecnico\bin\Debug\net6.0\desafio-tecnico.exe
+G:\Meu Drive\code\desafio-tecnico\bin\Debug\net6.0\desafio-tecnico.deps.json
+G:\Meu Drive\code\desafio-tecnico\bin\Debug\net6.0\desafio-tecnico.runtimeconfig.json
+G:\Meu Drive\code\desafio-tecnico\bin\Debug\net6.0\desafio-tecnico.dll
+G:\Meu Drive\code\desafio-tecnico\bin\Debug\net6.0\desafio-tecnico.pdb
+G:\Meu Drive\code\desafio-tecnico\obj\Debug\net6.0\desafio-tecnico.dll
+G:\Meu Drive\code\desafio-tecnico\obj\Debug\net6.0\refint\desafio-tecnico.dll
+G:\Meu Drive\code\desafio-tecnico\obj\Debug\net6.0\desafio-tecnico.pdb
+G:\Meu Drive\code\desafio-tecnico\obj\Debug\net6.0\desafio-tecnico.genruntimeconfig.cache
+G:\Meu Drive\code\desafio-tecnico\obj\Debug\net6.0\ref\desafio-tecnico.dll
